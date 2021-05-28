@@ -1,0 +1,47 @@
+.bodyIndex{
+	background-color: rgb(255, 213, 0);
+}
+.body1{
+	background-color: rgb(251, 163, 26);
+}
+.body2{
+	background-color: rgb(243, 114, 32);
+}
+.body3{
+	background-color: rgb(223, 30, 38);
+}
+.title1{
+	text-align: center;
+	background-color: orange;
+	font-family: Segoe Script;
+	font-weight: bold;
+}
+p{
+	text-align: center;
+	font-weight: bold;
+	font-family: MV boli
+}
+img{
+	margin: 0 auto;
+	display: block;
+}
+input{
+	margin: 0 auto;
+	display: block;
+	background-color: rgb(230, 214, 144);
+}
+.title2{
+	background-color: rgb(180, 200, 0);
+	text-align: center;
+	font-family: Segoe Script;
+}
+.title3{
+	background-color: rgb(180, 200, 0);
+	text-align: center;
+	font-family: Segoe Script;
+}
+.title4{
+	background-color: rgb(180, 200, 0);
+	text-align: center;
+	font-family: Segoe Script;
+}
